@@ -1,2 +1,2 @@
 # macos-apps
-A repository for MacOS scripts for various things.
+A repository for MacOS apps for various things.
